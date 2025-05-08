@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <locale.h>
 #include <stdlib.h>
-#include <stdio.h>
 int main() {
 	int opcao; // declarar variavel
 	float num1, num2; // declarar variavel
